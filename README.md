@@ -26,4 +26,4 @@ zebra
 
 ![res](https://user-images.githubusercontent.com/61402731/151574277-15791ac7-22bf-4636-b09e-49941a1ffaeb.PNG)
 
-zebra result.
+zebra result
